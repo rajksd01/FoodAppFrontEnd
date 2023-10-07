@@ -1,0 +1,994 @@
+{
+  "restaurantList": [
+    {
+      "info": {
+        "id": "615226",
+        "name": "Hive Honey Cake",
+        "cloudinaryImageId": "hm9c0t9covmddzqehbwg",
+        "locality": "H K P Road",
+        "areaName": "Shivaji Nagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Bakery", "Desserts", "Cafe"],
+        "avgRating": 4.7,
+        "feeDetails": {
+          "restaurantId": "615226",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 3300
+            },
+            {
+              "name": "BASE_TIME",
+              "fee": 2500
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 5800
+        },
+        "parentId": "270110",
+        "avgRatingString": "4.7",
+        "totalRatingsString": "100+",
+        "promoted": true,
+        "adTrackingId": "cid=6547320~p=8~eid=00000187-b4e9-759b-1301-52c3000d081c~45826",
+        "sla": {
+          "deliveryTime": 24,
+          "lastMileTravel": 2.7,
+          "serviceability": "SERVICEABLE",
+          "slaString": "24 mins",
+          "lastMileTravelString": "2.7 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 23:45:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textExtendedBadges": {},
+            "textBased": {},
+            "imageBased": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {}
+      }
+    },
+    {
+      "info": {
+        "id": "23678",
+        "name": "McDonald's",
+        "cloudinaryImageId": "ee5f8e06b300efc07c9fe3f4df40dfc4",
+        "locality": "5th Block",
+        "areaName": "Koramangala",
+        "costForTwo": "₹400 for two",
+        "cuisines": ["Burgers", "Beverages", "Cafe", "Desserts"],
+        "avgRating": 4.3,
+        "feeDetails": {
+          "restaurantId": "23678",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 5900
+            },
+            {
+              "name": "BASE_TIME",
+              "fee": 2500
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 8400
+        },
+        "parentId": "630",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "10K+",
+        "sla": {
+          "deliveryTime": 22,
+          "lastMileTravel": 5.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "22 mins",
+          "lastMileTravelString": "5.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 02:45:00",
+          "opened": true
+        },
+        "badges": {
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "options available",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "description": "",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                }
+              ]
+            },
+            "textBased": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "393107",
+        "name": "EatFit",
+        "cloudinaryImageId": "94d3bc5e6392fbaf50686cf8cfab10ef",
+        "locality": "Ali Asker Road",
+        "areaName": "Cunningham Road",
+        "costForTwo": "₹270 for two",
+        "cuisines": [
+          "Healthy Food",
+          "Pizzas",
+          "North Indian",
+          "Thalis",
+          "Biryani",
+          "Chinese"
+        ],
+        "avgRating": 4.3,
+        "feeDetails": {
+          "restaurantId": "393107",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 3400
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 3400
+        },
+        "parentId": "76139",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 23:45:00",
+          "opened": true
+        },
+        "badges": {
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "description": "",
+                    "shortDescription": "brand",
+                    "fontColor": "#7E808C"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "imageBased": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "3574",
+        "name": "Tibb's Frankie",
+        "cloudinaryImageId": "ujzbt83jdpvjrdo6k2ql",
+        "locality": "Commercial Street",
+        "areaName": "Shivajinagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Fast Food"],
+        "avgRating": 4.1,
+        "feeDetails": {
+          "restaurantId": "3574",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "216056",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "5K+",
+        "promoted": true,
+        "adTrackingId": "cid=6367148~p=7~eid=00000187-b833-a231-000b-e07f00b8072b~45826",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 2.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "2.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 21:45:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textExtendedBadges": {},
+            "textBased": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    },
+
+    {
+      "info": {
+        "id": "393107",
+        "name": "EatFit",
+        "cloudinaryImageId": "94d3bc5e6392fbaf50686cf8cfab10ef",
+        "locality": "Ali Asker Road",
+        "areaName": "Cunningham Road",
+        "costForTwo": "₹270 for two",
+        "cuisines": [
+          "Healthy Food",
+          "Pizzas",
+          "North Indian",
+          "Thalis",
+          "Biryani",
+          "Chinese"
+        ],
+        "avgRating": 4.3,
+        "feeDetails": {
+          "restaurantId": "393107",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 3400
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 3400
+        },
+        "parentId": "76139",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 23:45:00",
+          "opened": true
+        },
+        "badges": {
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "description": "",
+                    "shortDescription": "brand",
+                    "fontColor": "#7E808C"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "imageBased": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "40% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT"
+      },
+      "analytics": {},
+      "cta": {
+        "link": "swiggy://menu?restaurant_id=393107",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "3574",
+        "name": "Tibb's Frankie",
+        "cloudinaryImageId": "ujzbt83jdpvjrdo6k2ql",
+        "locality": "Commercial Street",
+        "areaName": "Shivajinagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Fast Food"],
+        "avgRating": 4.1,
+        "feeDetails": {
+          "restaurantId": "3574",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "216056",
+        "avgRatingString": "4.1",
+        "totalRatingsString": "5K+",
+        "promoted": true,
+        "adTrackingId": "cid=6367148~p=7~eid=00000187-b833-a231-000b-e07f00b8072b~45826",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 2.6,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "2.6 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 21:45:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {},
+            "textExtendedBadges": {},
+            "textBased": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "30% OFF",
+          "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT"
+      },
+      "analytics": {},
+      "cta": {
+        "link": "swiggy://menu?restaurant_id=3574",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+      }
+    },
+
+    {
+      "info": {
+        "id": "570511",
+        "name": "Bakingo",
+        "cloudinaryImageId": "qwbqggsxzw86vgk60c9c",
+        "locality": "MV Jayanthi Road",
+        "areaName": "Vasanth Nagar",
+        "costForTwo": "₹299 for two",
+        "cuisines": ["Bakery", "Desserts", "Beverages", "Snacks"],
+        "avgRating": 4.3,
+        "feeDetails": {
+          "restaurantId": "570511",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 3400
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 3400
+        },
+        "parentId": "3818",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "500+",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30 mins",
+          "lastMileTravelString": "3.0 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-26 01:00:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "146490",
+        "name": "Karnataka Bhel House",
+        "cloudinaryImageId": "vojof3tfxr0i3kwpsp3e",
+        "locality": "Chamrajpet",
+        "areaName": "Basavanagudi",
+        "costForTwo": "₹100 for two",
+        "cuisines": ["Chaat"],
+        "avgRating": 4.4,
+        "veg": true,
+        "feeDetails": {
+          "restaurantId": "146490",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 3400
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 3400
+        },
+        "parentId": "21319",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 3.9,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "3.9 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 22:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    },
+    {
+      "info": {
+        "id": "329938",
+        "name": "CHURMUR CHAAT CO",
+        "cloudinaryImageId": "womemvkfstu7zwrfulwe",
+        "locality": "Rama Nagar",
+        "areaName": "Central Bangalore",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Chaat", "Snacks", "Healthy Food", "North Indian"],
+        "avgRating": 4.5,
+        "veg": true,
+        "feeDetails": {
+          "restaurantId": "329938",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "63178",
+        "avgRatingString": "4.5",
+        "totalRatingsString": "1K+",
+        "promoted": true,
+        "adTrackingId": "cid=6543690~p=8~eid=00000187-b833-a231-000b-e08000b8080b~45826",
+        "sla": {
+          "deliveryTime": 30,
+          "lastMileTravel": 1.4,
+          "serviceability": "SERVICEABLE",
+          "slaString": "30 mins",
+          "lastMileTravelString": "1.4 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 20:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "20% OFF",
+          "subHeader": "UPTO ₹50"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT"
+      },
+      "analytics": {}
+    },
+    {
+      "info": {
+        "id": "9911",
+        "name": "Fresh Pressery Cafe",
+        "cloudinaryImageId": "iluzctsyam0qm5anwbfr",
+        "locality": "Ashok Nagar",
+        "areaName": "Lavelle Road",
+        "costForTwo": "₹1000 for two",
+        "cuisines": ["Italian", "Salads", "Healthy Food", "French"],
+        "avgRating": 4.4,
+        "feeDetails": {
+          "restaurantId": "9911",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "1405",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 0.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "0.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 19:30:00",
+          "opened": true
+        },
+        "badges": {
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "description": "",
+                    "shortDescription": "brand",
+                    "fontColor": "#7E808C"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT"
+      }
+    },
+    {
+      "info": {
+        "id": "9911",
+        "name": "Fresh Pressery Cafe",
+        "cloudinaryImageId": "iluzctsyam0qm5anwbfr",
+        "locality": "Ashok Nagar",
+        "areaName": "Lavelle Road",
+        "costForTwo": "₹1000 for two",
+        "cuisines": ["Italian", "Salads", "Healthy Food", "French"],
+        "avgRating": 4.4,
+        "feeDetails": {
+          "restaurantId": "9911",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "1405",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "5K+",
+        "sla": {
+          "deliveryTime": 28,
+          "lastMileTravel": 0.5,
+          "serviceability": "SERVICEABLE",
+          "slaString": "28 mins",
+          "lastMileTravelString": "0.5 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 19:30:00",
+          "opened": true
+        },
+        "badges": {
+          "textExtendedBadges": [
+            {
+              "iconId": "guiltfree/GF_Logo_android_3x",
+              "shortDescription": "brand",
+              "fontColor": "#7E808C"
+            }
+          ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "description": "",
+                    "shortDescription": "brand",
+                    "fontColor": "#7E808C"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT"
+      },
+      "analytics": {},
+      "cta": {
+        "link": "swiggy://menu?restaurant_id=9911",
+        "text": "RESTAURANT_MENU",
+        "type": "DEEPLINK"
+      }
+    },
+    {
+      "info": {
+        "id": "59234",
+        "name": "Ramji Chaiwale",
+        "cloudinaryImageId": "pgs8vd3skpvt17vscltz",
+        "locality": "Residency Road",
+        "areaName": "Ashok Nagar",
+        "costForTwo": "₹100 for two",
+        "cuisines": ["Fast Food", "Punjabi", "Desserts"],
+        "avgRating": 4.4,
+        "veg": true,
+        "feeDetails": {
+          "restaurantId": "59234",
+          "fees": [
+            {
+              "name": "BASE_DISTANCE",
+              "fee": 2800
+            },
+            {
+              "name": "BASE_TIME"
+            },
+            {
+              "name": "ANCILLARY_SURGE_FEE"
+            }
+          ],
+          "totalFee": 2800
+        },
+        "parentId": "4216",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "1K+",
+        "promoted": true,
+        "adTrackingId": "cid=6496852~p=9~eid=00000187-b833-a231-000b-e08100b80976~45826",
+        "sla": {
+          "deliveryTime": 29,
+          "lastMileTravel": 2.1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "29 mins",
+          "lastMileTravelString": "2.1 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+          "nextCloseTime": "2023-04-25 23:30:00",
+          "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+        "aggregatedDiscountInfoV3": {
+          "header": "50% OFF",
+          "subHeader": "UPTO ₹100"
+        },
+        "orderabilityCommunication": {
+          "title": {},
+          "subTitle": {},
+          "message": {},
+          "customIcon": {}
+        },
+        "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        }
+      }
+    }
+  ]
+}

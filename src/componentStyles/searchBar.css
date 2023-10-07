@@ -1,0 +1,11 @@
+.searchBar{
+    height: 20px;
+    width: 80%;
+    margin:20px;
+    border : solid grey
+
+}
+.searchField{
+    height: 94%;
+    width: 94%;
+}
