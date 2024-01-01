@@ -8,7 +8,6 @@ import NotFound from "./NotFound";
 import { Link } from "react-router-dom";
 import { RESTAURANT_LIST } from "../../config";
 
-
 // body component
 const Body = () => {
   const [searchInput, setSearchInput] = useState("");
@@ -55,8 +54,8 @@ const Body = () => {
     return <Shimmer />;
   }
   return (
-    <>
-      <div className="rounded-lg w-2/3 p-2 ml-[15%] align-middle">
+    <div className=" ">
+      <div className="  rounded-lg w-2/3 p-2 ml-[15%] align-middle">
         <label
           for="default-search"
           className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
@@ -97,18 +96,19 @@ const Body = () => {
           >
             Search
           </button>
-     
         </div>
       </div>
-
-      <div className=" mx-auto flex flex-wrap p-4 pl-[10%] ">
+      <div className="flex align-middle justify-center">
+        <h2 className="font-bold bg-[#0C8079] p-3 rounded-lg  text-5xl">Restaurants</h2>
+      </div>
+      <div className=" mx-auto flex flex-wrap p-4 pl-[5%] ">
         {filteredRestaurants?.length == 0 ? (
           <NotFound message="Restaurant" />
         ) : (
           filteredRestaurants?.map((restaurant) => {
             return (
               <Link to={`/restaurants/${restaurant?.info?.id}`}>
-                <RestaurantCard 
+                <RestaurantCard
                   {...restaurant?.info}
                   key={restaurant?.info?.id}
                 />
@@ -117,7 +117,7 @@ const Body = () => {
           })
         )}
       </div>
-    </>
+    </div>
   );
 };
 

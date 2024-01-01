@@ -16,7 +16,8 @@ const RestaurantDetails = () => {
       "https://corsproxy.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.1702401&lng=72.83106070000001&&submitAction=ENTER&restaurantId=" +
         id
     );
-    const result = await data.json(); 
+    const result = await data.json();
+    console.log(result)
     const menuItems = result?.data?.cards;
     setRestaurantdata(menuItems);
     console.log(menuItems[0].card.card.info);
@@ -37,10 +38,15 @@ const RestaurantDetails = () => {
     <Shimmer />
   ) : (
     <>
-      <h2 className="font-b">{restaurantdata[0].card.card.info.name}</h2>
-      <img
-        src={IMG_CDN_URL + restaurantdata[0].card.card.info.cloudinaryImageId}
-      ></img>
+      <div className="flex flex-row p-5 bg-[#E2E8F0] ">
+        <img
+          className="rounded-xl  "
+          src={IMG_CDN_URL + restaurantdata[0].card.card.info.cloudinaryImageId}
+        />
+        <h2 className="font-bold text-5xl p-0 lg:p-6 xl:p-12">
+          {restaurantdata[0].card.card.info.name}
+        </h2>
+      </div>
       {restaurantdata[2].groupedCard.cardGroupMap.REGULAR.cards[1].card.card.itemCards.map(
         (menuItem) => {
           console.log(menuItem);
@@ -55,7 +61,7 @@ const RestaurantDetails = () => {
                     <h3>{menuItem.card.info.name}</h3>
                     <button
                       className="bold rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-                      onClick={()=>handleItem(menuItem)}
+                      onClick={() => handleItem(menuItem)}
                     >
                       {" "}
                       + Add{" "}
